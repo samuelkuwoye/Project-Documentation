@@ -20,4 +20,15 @@ Public Company Reports: Chains like Domino’s and Papa John’s publish quarter
 ### Tools Used
 - Ms Excel for data cleaning
 - SQL server for data query and analysis
-- PowerBi for building reports
+- PowerBi for building report
+
+### Data Cleaning
+- Remove Duplicate Records
+Identify and eliminate duplicate rows that might skew analysis.
+
+- Handle Missing Values
+Remove rows/columns with too many missing values.
+
+Impute missing values using strategies like mean, median, mode, or predictive models.
+
+
