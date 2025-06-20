@@ -32,3 +32,20 @@ Remove rows/columns with too many missing values.
 Impute missing values using strategies like mean, median, mode, or predictive models.
 
 
+### Visualisation
+
+
+
+
+
+
+
+
+
+
+!![https___f2fa1cdd9340fae53fcb49f577292458 cdn bubble io_f1696649299551x881581545826101400_Cover%20Photo](https://github.com/user-attachments/assets/9c40ce2b-1b13-4c80-8b87-f82ea704c1fc)
+
+
+
+
+
